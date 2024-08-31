@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ornidec.github.io/sitemap.html.gz
+Sitemap: https://ornidec.github.io/app/sitemap.html.gz
+Sitemap: https://ornidec.github.io/assets/sitemap.html.gz
+Sitemap: https://ornidec.github.io/css/sitemap.html.gz
+Sitemap: https://ornidec.github.io/includes/sitemap.html.gz
+Sitemap: https://ornidec.github.io/item/sitemap.html.gz
+Sitemap: https://ornidec.github.io/src/sitemap.html.gz
